@@ -1,7 +1,7 @@
 {
-  "name": "intercomjs",
+  "name": "intercomify",
   "homepage": "https://github.com/cyberj0g/intercom.js",
   "main": "dist/intercom.js",
   "ignore": ["package.json"],
-  "keywords": ["intercomjs"]
+  "keywords": ["intercomjs","intercomify","tab interaction"]
 }
